@@ -1,0 +1,176 @@
+Category,JobDescription
+Data Scientist,"We are looking for a Data Scientist with at least 4 years of experience.
+Required Skills: TensorFlow, Tableau, PyTorch, Jupyter, Statistics, Feature Engineering.
+Responsibilities include working on recommendation systems, machine learning models
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+Data Scientist,"We are looking for a Data Scientist with at least 2 years of experience.
+Required Skills: Jupyter, Data Visualization, Scikit-learn, Deep Learning, Tableau, Statistics.
+Responsibilities include working on machine learning models, predictive models
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+Data Scientist,"We are looking for a Data Scientist with at least 2 years of experience.
+Required Skills: A/B Testing, NumPy, Statistics, Power BI, Machine Learning, Matplotlib.
+Responsibilities include working on recommendation systems, machine learning models
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+Data Scientist,"We are looking for a Data Scientist with at least 4 years of experience.
+Required Skills: SQL, PyTorch, Power BI, Pandas, A/B Testing, NumPy.
+Responsibilities include working on machine learning models, recommendation systems
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+Data Scientist,"We are looking for a Data Scientist with at least 1 years of experience.
+Required Skills: Statistics, Data Visualization, Feature Engineering, Deep Learning, R, PyTorch.
+Responsibilities include working on recommendation systems, dashboards
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+AI Engineer,"We are looking for a AI Engineer with at least 3 years of experience.
+Required Skills: TensorFlow, Computer Vision, NLP, PyTorch, Kubernetes, Docker.
+Responsibilities include working on AI inference services, NLP pipelines
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+AI Engineer,"We are looking for a AI Engineer with at least 3 years of experience.
+Required Skills: PyTorch, Hugging Face, OpenCV, Kubernetes, MLOps, REST APIs.
+Responsibilities include working on deep learning models, computer vision systems
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+AI Engineer,"We are looking for a AI Engineer with at least 3 years of experience.
+Required Skills: TensorFlow, NLP, Docker, Model Deployment, FastAPI, OpenCV.
+Responsibilities include working on AI inference services, computer vision systems
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+AI Engineer,"We are looking for a AI Engineer with at least 3 years of experience.
+Required Skills: Kubernetes, REST APIs, FastAPI, Computer Vision, MLOps, PyTorch.
+Responsibilities include working on chatbots, AI inference services
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+AI Engineer,"We are looking for a AI Engineer with at least 2 years of experience.
+Required Skills: NLP, Flask, Python, Keras, PyTorch, FastAPI.
+Responsibilities include working on NLP pipelines, deep learning models
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+Software Engineer,"We are looking for a Software Engineer with at least 2 years of experience.
+Required Skills: REST APIs, SQL, Agile, Java, Python, System Design.
+Responsibilities include working on internal tools, APIs
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+Software Engineer,"We are looking for a Software Engineer with at least 3 years of experience.
+Required Skills: Git, Object Oriented Programming, Java, Data Structures, Unit Testing, System Design.
+Responsibilities include working on APIs, backend services
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+Software Engineer,"We are looking for a Software Engineer with at least 4 years of experience.
+Required Skills: Data Structures, System Design, Agile, C++, Algorithms, REST APIs.
+Responsibilities include working on automated tests, APIs
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+Software Engineer,"We are looking for a Software Engineer with at least 4 years of experience.
+Required Skills: Algorithms, Agile, Git, Design Patterns, System Design, Unit Testing.
+Responsibilities include working on software modules, internal tools
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+Software Engineer,"We are looking for a Software Engineer with at least 1 years of experience.
+Required Skills: Data Structures, Java, Unit Testing, REST APIs, Git, Design Patterns.
+Responsibilities include working on scalable systems, internal tools
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+Web Developer,"We are looking for a Web Developer with at least 4 years of experience.
+Required Skills: REST APIs, Bootstrap, Redux, Webpack, React, Git.
+Responsibilities include working on single page applications, e-commerce platforms
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+Web Developer,"We are looking for a Web Developer with at least 5 years of experience.
+Required Skills: HTML, Express.js, TypeScript, CSS, MongoDB, JavaScript.
+Responsibilities include working on frontend components, web applications
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+Web Developer,"We are looking for a Web Developer with at least 4 years of experience.
+Required Skills: SQL, REST APIs, Redux, Bootstrap, Node.js, CSS.
+Responsibilities include working on e-commerce platforms, responsive UIs
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+Web Developer,"We are looking for a Web Developer with at least 2 years of experience.
+Required Skills: TypeScript, Bootstrap, JavaScript, Express.js, HTML, REST APIs.
+Responsibilities include working on responsive UIs, web applications
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+Web Developer,"We are looking for a Web Developer with at least 2 years of experience.
+Required Skills: Next.js, Express.js, Webpack, Redux, REST APIs, TypeScript.
+Responsibilities include working on frontend components, landing pages
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+Java Developer,"We are looking for a Java Developer with at least 3 years of experience.
+Required Skills: Git, Maven, Microservices, Spring Boot, Java, REST APIs.
+Responsibilities include working on database integrations, backend systems
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+Java Developer,"We are looking for a Java Developer with at least 2 years of experience.
+Required Skills: MySQL, REST APIs, Maven, SQL, Hibernate, Spring Boot.
+Responsibilities include working on Spring Boot microservices, batch jobs
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+Java Developer,"We are looking for a Java Developer with at least 3 years of experience.
+Required Skills: Design Patterns, SQL, Hibernate, Microservices, JUnit, Multithreading.
+Responsibilities include working on enterprise applications, batch jobs
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+Java Developer,"We are looking for a Java Developer with at least 2 years of experience.
+Required Skills: Git, SQL, Design Patterns, REST APIs, MySQL, Java.
+Responsibilities include working on Spring Boot microservices, database integrations
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+Java Developer,"We are looking for a Java Developer with at least 4 years of experience.
+Required Skills: Java, Microservices, Maven, Multithreading, Docker, Design Patterns.
+Responsibilities include working on REST APIs, enterprise applications
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+DevOps Engineer,"We are looking for a DevOps Engineer with at least 2 years of experience.
+Required Skills: GitLab CI, Grafana, Jenkins, Kubernetes, Git, Ansible.
+Responsibilities include working on infrastructure as code, container orchestration
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+DevOps Engineer,"We are looking for a DevOps Engineer with at least 3 years of experience.
+Required Skills: Docker, Infrastructure as Code, Ansible, Linux, Azure DevOps, Git.
+Responsibilities include working on CI/CD pipelines, release pipelines
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+DevOps Engineer,"We are looking for a DevOps Engineer with at least 1 years of experience.
+Required Skills: AWS, Linux, Infrastructure as Code, Jenkins, Ansible, Git.
+Responsibilities include working on CI/CD pipelines, infrastructure as code
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+DevOps Engineer,"We are looking for a DevOps Engineer with at least 4 years of experience.
+Required Skills: CI/CD, Git, Linux, Kubernetes, AWS, Docker.
+Responsibilities include working on deployment automation, release pipelines
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+DevOps Engineer,"We are looking for a DevOps Engineer with at least 1 years of experience.
+Required Skills: Jenkins, Kubernetes, AWS, Bash Scripting, CI/CD, Git.
+Responsibilities include working on release pipelines, container orchestration
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+Cloud Engineer,"We are looking for a Cloud Engineer with at least 2 years of experience.
+Required Skills: CloudFormation, DevOps, Security, S3, Google Cloud Platform, Linux.
+Responsibilities include working on serverless architectures, cloud migrations
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+Cloud Engineer,"We are looking for a Cloud Engineer with at least 2 years of experience.
+Required Skills: Azure, AWS, Docker, Terraform, EC2, Google Cloud Platform.
+Responsibilities include working on multi-region deployments, serverless architectures
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+Cloud Engineer,"We are looking for a Cloud Engineer with at least 1 years of experience.
+Required Skills: Azure, Docker, CloudFormation, Google Cloud Platform, Networking, AWS.
+Responsibilities include working on multi-region deployments, cloud security policies
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+Cloud Engineer,"We are looking for a Cloud Engineer with at least 5 years of experience.
+Required Skills: Azure, DevOps, Python, Linux, Terraform, Kubernetes.
+Responsibilities include working on cloud migrations, serverless architectures
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
+Cloud Engineer,"We are looking for a Cloud Engineer with at least 2 years of experience.
+Required Skills: Lambda, EC2, Azure, Terraform, IAM, Networking.
+Responsibilities include working on cloud migrations, serverless architectures
+and collaborating with cross-functional teams. Strong communication and
+problem-solving skills required."
